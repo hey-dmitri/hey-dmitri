@@ -2,7 +2,7 @@
 
 I run operations at startups. Chief of Staff and Head of Ops work, two exits so far.
 
-The thing is, a lot of operations are the same problem on repeat. So I started building tools for it instead of grinding through it. Most of what's on this account is that. Agent skills and Claude setups I use to move faster.
+The thing is, a lot of operations work is the same problem on repeat. So I started building tools for it instead of grinding through it. Most of what's on this account is that. Agent skills and Claude setups I use to move faster.
 
 If you're hiring an operator who actually builds, that's the pitch.
 
