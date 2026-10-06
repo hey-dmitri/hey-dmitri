@@ -13,6 +13,7 @@ If you're hiring an operator who actually builds, that's the pitch.
 - [DeAI_Skill](https://github.com/hey-dmitri/DeAI_Skill): a self-review skill that catches AI tells and voice mismatches.
 - [llm-knowledgebase](https://github.com/hey-dmitri/llm-knowledgebase): a safe setup workflow for a persistent, local LLM wiki.
 - [My_Claude.MD](https://github.com/hey-dmitri/My_Claude.MD): my baseline instructions for getting reliable work from Claude Code.
+- [packorstay](https://github.com/hey-dmitri/packorstay): a free calculator that shows whether moving to another US city leaves you with more money. Live at [packorstay.com](https://packorstay.com).
 
 ### Reach me
 
