@@ -1,10 +1,10 @@
 # Hey, I'm Dmitri 👋
 
-I run operations at startups. Chief of Staff and Head of Ops work, two exits so far.
+I'm a Chief of Staff to founders and CEOs. Ex-founder, ex-COO, two exits so far.
 
 The thing is, a lot of operations work is the same problem on repeat. So I started building tools for it instead of grinding through it. Most of what's on this account is that. Agent skills and AI workflows I use to move faster.
 
-If you're hiring an operator who actually builds, that's the pitch.
+If you're hiring a Chief of Staff who actually builds, that's the pitch.
 
 ### A few things I've made
 
